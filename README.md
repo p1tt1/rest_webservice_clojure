@@ -2,7 +2,7 @@
 
 ## HEROKU Instance
 
-An example instance be running on xxx
+An example instance be running on https://pure-peak-00001.herokuapp.com/
 
 ## Description of the Project
 
